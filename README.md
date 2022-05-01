@@ -6,10 +6,12 @@
 
 Please find below links to my portfolio projects: 
 
-1. https://github.com/cukier91/FilmBook
-2. https://github.com/cukier91/fakeStore/tree/main/fake-store
-3. https://github.com/cukier91/pg_projekty
-4. https://github.com/cukier91/ONL_FSB_E_09_JavaScript_Warsztat
+1. https://github.com/cukier91/training
+2. https://github.com/cukier91/FilmBook
+3. https://github.com/cukier91/fakeStore/tree/main/fake-store
+4. https://github.com/cukier91/pg_projekty
+5. https://github.com/cukier91/ONL_FSB_E_09_JavaScript_Warsztat
+
 
 <!---
 cukier91/cukier91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
