@@ -6,10 +6,11 @@
 
 Please find below links to my portfolio projects: 
 
-1. https://github.com/cukier91/training - A combination of all the previous ones. The application is about the possibility of practicing React, redux, validation, css, html and learning about new libraries.
-2. https://github.com/cukier91/FilmBook - Website based on the free movie API. The main goal is to develop CSS
-3. https://github.com/cukier91/fakeStore/tree/main/fake-store - Website based on fake store api. The main goal is to learn the basics of the redux
-4. https://github.com/cukier91/pg_projekty - website for a small business
+1.https://github.com/cukier91/Char-char- The purpose of the project is to create a portal for the exchange of books between users. Used technologies: React, Redux, Formik, css, Pigeon Maps, Yup, tbd... 
+2. https://github.com/cukier91/training - A combination of all the previous ones. The application is about the possibility of practicing React, redux, validation, css, html and learning about new libraries.
+3. https://github.com/cukier91/FilmBook - Website based on the free movie API. The main goal is to develop CSS
+4. https://github.com/cukier91/fakeStore/tree/main/fake-store - Website based on fake store api. The main goal is to learn the basics of the redux
+5. https://github.com/cukier91/pg_projekty - website for a small business
 
 
 
