@@ -7,7 +7,7 @@
 Please find below links to my portfolio projects: 
 
 1.https://github.com/cukier91/home_budget - The purpose of the project is to create a portal for the home budget calculations. Used technologies: React, Redux, Formik, css, Yup, tailwindcss, tbd... <br>
-2.https://github.com/cukier91/Char-char- The purpose of the project is to create a portal for the exchange of books between users. Used technologies: React, Redux, Formik, css, Pigeon Maps, Yup, tbd... <br>
+2.https://github.com/cukier91/Char-char - The purpose of the project is to create a portal for the exchange of books between users. Used technologies: React, Redux, Formik, css, Pigeon Maps, Yup, tbd... <br>
 3. https://github.com/cukier91/training - A combination of all the previous ones. The application is about the possibility of practicing React, redux, validation, css, html and learning about new libraries.<br>
 4. https://github.com/cukier91/FilmBook - Website based on the free movie API. The main goal is to develop CSS<br>
 5. https://github.com/cukier91/fakeStore/tree/main/fake-store - Website based on fake store api. The main goal is to learn the basics of the redux<br>
