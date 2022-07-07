@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cukier91
 - 👀 I’m interested in React, Redux, CSS, HTML, JS and Python
-- 🌱 I’m currently learning React + Redux
+- 🌱 I’m currently learning React and TypeScript
 - 💞️ I’m looking to collaborate on everything that gives me a chance to improve my skills 
 - 📫 How to reach me by e-mail konarowki.bartosz@yahoo.com or phone no. +48 789-352-232
 
